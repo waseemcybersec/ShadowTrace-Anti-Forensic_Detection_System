@@ -30,13 +30,15 @@ ShadowTrace operates exclusively on raw forensic images (`.dd`, `.raw`, `.img`, 
 ```powershell
    pip install -r requirements.txt
 ```
----
 
 ### Method 2 (For Users)
 
 1. **Download the Installer:**
+Download the ShadowTrace official installer from the given link below.
+   ```powershell
    https://drive.google.com/file/d/1nAxnhd-6iILpgY87BKXQv_tQNj1cMx1T/view
-
+   ```
+---
 ## 3. Dependencies and Prerequisites
 
 **Prerequisites:**
