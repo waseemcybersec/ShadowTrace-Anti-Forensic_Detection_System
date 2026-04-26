@@ -25,10 +25,11 @@ ShadowTrace operates exclusively on raw forensic images (`.dd`, `.raw`, `.img`, 
 
 ```powershell
    git clone https://github.com/waseemcybersec/ShadowTrace-Anti-Forensic_Detection_System
-
+```
 3. **Install Required Packages:**
+```powershell
    pip install -r requirements.txt
-
+```
 ---
 
 ### Method 2 (For Users)
