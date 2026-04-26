@@ -1,0 +1,6 @@
+
+# Core forensic image parsing (Sleuth Kit bindings)
+pytsk3>=20240506
+
+# UI enhancements and logo processing
+Pillow>=10.0.0
