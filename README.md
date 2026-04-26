@@ -18,25 +18,24 @@ ShadowTrace operates exclusively on raw forensic images (`.dd`, `.raw`, `.img`, 
 ---
 
 ## 2. Installation Instructions
-
-1. **Clone or Extract the Project:**
-   Ensure the `DF_Project` folder is placed on your local drive.
-
-2. **Create a Virtual Environment (Recommended):**
+### Method 1 (For developers)
+1. **Clone the Repository:**
    ```powershell
-   cd d:\DF_Project
-   python -m venv .venv
-   .venv\Scripts\activate
+   git clone https://github.com/waseemcybersec/ShadowTrace-Anti-Forensic_Detection_System
    ```
-
-3. **Install Required Packages:**
+4. **Install Required Packages:**
    Use the provided requirements file to install the exact dependencies:
    ```powershell
    pip install -r requirements.txt
 
-4. ShadowTrace can be also installed from our official installer. simply download it and double click it and follow the installer instructions.
+5. ShadowTrace can be also installed from our official installer. simply download it and double click it and follow the installer instructions.
    ```
-
+### Method 2 (For Users)
+   **Download the Installer:**
+   Downnload our official installer from the link below.
+   ```powershell
+   https://drive.google.com/file/d/1nAxnhd-6iILpgY87BKXQv_tQNj1cMx1T/view
+  
 ---
 
 
